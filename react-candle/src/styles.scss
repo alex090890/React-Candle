@@ -1,14 +1,3 @@
-body {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-  font-family: sans-serif;
-  background: #007398;
-  color: white;
-  padding: 0 30px;
-}
-
 .block {
   text-align: center;
   background: white;
@@ -57,6 +46,7 @@ img {
   border-radius: 3px;
   max-height: 200px;
 }
+
 .candleContainer{
   background: #111;
   display: flex;  
